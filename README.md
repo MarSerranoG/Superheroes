@@ -1,3 +1,4 @@
 Superheroes app
 =================================
-Link repositoy
+Link repositoy on Github
+https://github.com/MarSerranoG/Superheroes
